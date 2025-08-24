@@ -37,12 +37,15 @@ Thai-Stock-Prediction-Transformer/
 
 | Model       | RMSE  |
 |-------------|-------|
-| LSTM        | xx.xx |
-| Transformer | yy.yy |
+| LSTM        | 22.859689 |
+| Transformer | 255.930063 |
 
 **กราฟเปรียบเทียบผลการทำนาย:**
 
-![Prediction Result](images/prediction_comparison.png) 
+![Prediction Result](<img width="1473" height="781" alt="image" src="https://github.com/user-attachments/assets/0dbcdf3a-49d7-46c9-a785-3399a140dff5" />
+)
+
+
 *(คุณจะต้องสร้างโฟลเดอร์ images แล้วนำภาพ Screenshot ของกราฟผลลัพธ์จาก Notebook ที่ 4 มาใส่)*
 
 ## 🔮 แนวทางการพัฒนาต่อ (Future Work)
