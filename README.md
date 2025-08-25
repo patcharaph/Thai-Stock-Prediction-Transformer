@@ -68,8 +68,7 @@ LSTM เก่งกว่าในการเรียนรู้การเ
 Transformer มักเหมาะกับ sequence ยาวๆ + stationary (เช่น return series)
 
 **กราฟเปรียบเทียบผลการทำนาย:**
-
-![Prediction Result](https://drive.google.com/file/d/16oUPDAkN_14dWJ_2lEpE70dGcP8h8-QQ/view?usp=drive_link)
+[Prediction Result](https://drive.google.com/file/d/16oUPDAkN_14dWJ_2lEpE70dGcP8h8-QQ/view?usp=sharing)
 
 
 ## 🔮 แนวทางการพัฒนาต่อ (Future Work)
